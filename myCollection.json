@@ -42,8 +42,8 @@
       "079",
       {
         "cardId": "089",
-        "order": 1000,
-        "locked": true
+        "order": 27,
+        "locked": false
       }
     ]
   }
