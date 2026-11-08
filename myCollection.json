@@ -42,6 +42,19 @@
       { 
         "cardId": "220", 
         "stamp": "holidayCalendar2025", 
+        "order": 1,
+        "locked": true 
+      },
+      { 
+        "cardId": "220", 
+        "stamp": "setKolektor", 
+        "order":2,
+        "locked": true 
+      },
+      { 
+        "cardId": "220", 
+        "error": "noHolo", 
+        "order":3,
         "locked": true 
       }
     ]
